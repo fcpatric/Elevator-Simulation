@@ -1,3 +1,3 @@
-# Elevator-Simulation
-COMSC-200  Lab 16
-Diablo Valley College
+# Elevator-Simulation, Lab 16
+## COMSC-200: Object Oriented Programming C++ 
+### Diablo Valley College
